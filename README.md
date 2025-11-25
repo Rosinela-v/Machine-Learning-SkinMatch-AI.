@@ -1,4 +1,4 @@
-# 🌸 **SkinSoft AI — Recomendador Inteligente según Tipo de Piel**
+# 🌸 **SkinMatch AI — Recomendador Inteligente según Tipo de Piel**
 
 Tu asistente tierno y preciso que analiza ingredientes cosméticos (INCI) y predice qué tipo de piel tolerará mejor un producto.  
 Basado en Machine Learning, dermatología y procesamiento de texto.
@@ -51,14 +51,13 @@ El sistema detecta:
 - TF-IDF ngramas para semántica del INCI
 
 ### **3️⃣ Entrenamiento de modelos**
-Se evaluaron 6 modelos supervisados:
+Se evaluaron 5 modelos supervisados:
 
 - Logistic Regression  
 - Random Forest  
 - Gradient Boosting  
 - SVC  
-- KNN  
-- Naive Bayes  
+- KNN   
 
 Además:
 
@@ -117,7 +116,7 @@ A continuación una vista rápida de las funciones principales que verás en la 
 
 ## 🖼️ Mockup Vista previa
 
-![Demo de SkinSoft AI](docs/Mockup.gif)
+![Demo](docs/Mockup.gif)
 
 ---
 
@@ -182,7 +181,9 @@ No sustituye evaluaciones dermatológicas profesionales ni está aprobado por en
 
 **Rosinela Vega** — Proyecto Final de Machine Learning  
 📧 *Rosinelavega@gmail.com*  
+Linkedin  https://www.linkedin.com/in/rosinela-vega-297b5426b/
 
 ---
+
 
 
